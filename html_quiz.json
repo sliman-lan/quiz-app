@@ -1,0 +1,82 @@
+[
+    {
+        "title" : "what <br> Element  is used for ",
+        "right_ans":"add breakline",
+        "answer_1":"add bold to text",
+        "answer_2":"add space between Elements",
+        "answer_3":"add horizontal line",
+        "answer_4":"add breakline"
+    },
+    {
+        "title" : "the  <img> Element has prop called 'href' ",
+        "right_ans":"false",
+        "answer_1":"all Elements has it",
+        "answer_2":"false",
+        "answer_3":"it would refer to img file",
+        "answer_4":"true"
+    },
+    {
+        "title" : " <video>Element has attribute that we can make video run automatically",
+        "right_ans":"autoplay",
+        "answer_1":"run",
+        "answer_2":"auto",
+        "answer_3":"autoplay",
+        "answer_4":"src"
+    },
+    {
+        "title" : "meta Element  is used for ",
+        "right_ans":"add description, keywords",
+        "answer_1":"description",
+        "answer_2":"nonsense",
+        "answer_3":"make the website responsive",
+        "answer_4":"add description, keywords"
+    },
+    {
+        "title" : "in HTML you can add SVG directly",
+        "right_ans":"true",
+        "answer_1":"false",
+        "answer_2":"true",
+        "answer_3":"can't add SVG anymore.",
+        "answer_4":"somtimes true"
+    },
+    {
+        "title" : "to prevent user from edit <input />, must add a property called ",
+        "right_ans":"readonly",
+        "answer_1":"editable=\"false\"",
+        "answer_2":"readonly=\"yes\"",
+        "answer_3":"readonly",
+        "answer_4":"edit-content=\"false\""
+    },
+    {
+        "title" : "we use <!DOCTYPE html> for ?",
+        "right_ans":"tell browser this document type is html5",
+        "answer_1":"for fun",
+        "answer_2":"tell browser this document type is html5",
+        "answer_3":"in case we want use xml",
+        "answer_4":"every answer is wrong"
+    },
+    {
+        "title" : "the css file can added in three ways, which one is prefered ?",
+        "right_ans":"outer file",
+        "answer_1":"outer file",
+        "answer_2":"add inline style for every element",
+        "answer_3":"add style tag <style> ",
+        "answer_4":"both answers two and three"
+    },
+    {
+        "title" : "input type checkbox must have the same name attribute ?",
+        "right_ans":"false",
+        "answer_1":"true",
+        "answer_2":"input type checkbox has no attribute called name ",
+        "answer_3":"false",
+        "answer_4":"sometimes yes"
+    },
+    {
+        "title" : "how to add CSS in html documents",
+        "right_ans":"<style> . . . </style>",
+        "answer_1":"<styleSheet></styleSheet>",
+        "answer_2":"<css></css>",
+        "answer_3":"#style {  }",
+        "answer_4":"<style> . . . </style>"
+    }
+]

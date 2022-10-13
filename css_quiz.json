@@ -1,0 +1,82 @@
+[
+    {
+        "title" : "to make the text color Red of this element <p> test </p> ",
+        "right_ans":"p { color: red; }",
+        "answer_1":"p{ background:red; }",
+        "answer_2":"p{ text-color:#f00 }",
+        "answer_3":".text { color: red }",
+        "answer_4":"p { color: red; }"
+    },
+    {
+        "title" : "the correct answer to add a font-family 'open sans' and font-size 90% of body font-size:",
+        "right_ans":"font: .9em 'Open Sans'",
+        "answer_1":"font: 90% 'Open Sans'",
+        "answer_2":"font: 9px 'Open Sans'",
+        "answer_3":"font: .9em 'Open Sans'",
+        "answer_4":"font : 0 'Open Sans'"
+    },
+    {
+        "title" : "how to make two elements or more inline, in case you can only edit the parent element",
+        "right_ans":".parent{display:flex;}",
+        "answer_1":".parent{display:inline;}",
+        "answer_2":".parent{display:flex;}",
+        "answer_3":".parent{margin:auto;}",
+        "answer_4":".parent{vertical-align:middle;}"
+    },
+    {
+        "title" : "meta Element  is used for ",
+        "right_ans":"add description, keywords",
+        "answer_1":"description",
+        "answer_2":"nonsense",
+        "answer_3":"make the website responsive",
+        "answer_4":"add description, keywords"
+    },
+    {
+        "title" : "in HTML you can add SVG directly",
+        "right_ans":"true",
+        "answer_1":"false",
+        "answer_2":"true",
+        "answer_3":"can't add SVG anymore.",
+        "answer_4":"somtimes true"
+    },
+    {
+        "title" : "what <br> Element  is used for ",
+        "right_ans":"add breakline",
+        "answer_1":"add bold to text",
+        "answer_2":"add space between Elements",
+        "answer_3":"add horizontal line",
+        "answer_4":"add breakline"
+    },
+    {
+        "title" : "Gow to  ",
+        "right_ans":"add breakline",
+        "answer_1":"add bold to text",
+        "answer_2":"add space between Elements",
+        "answer_3":"add horizontal line",
+        "answer_4":"add breakline"
+    },
+    {
+        "title" : "what <br> Element  is used for ",
+        "right_ans":"add breakline",
+        "answer_1":"add bold to text",
+        "answer_2":"add space between Elements",
+        "answer_3":"add horizontal line",
+        "answer_4":"add breakline"
+    },
+    {
+        "title" : "what <br> Element  is used for ",
+        "right_ans":"add breakline",
+        "answer_1":"add bold to text",
+        "answer_2":"add space between Elements",
+        "answer_3":"add horizontal line",
+        "answer_4":"add breakline"
+    },
+    {
+        "title" : "what <br> Element  is used for ",
+        "right_ans":"add breakline",
+        "answer_1":"add bold to text",
+        "answer_2":"add space between Elements",
+        "answer_3":"add horizontal line",
+        "answer_4":"add breakline"
+    }
+]

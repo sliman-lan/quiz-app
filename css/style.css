@@ -1,0 +1,44 @@
+/* start varibles */
+:root {
+--main-color: #19c8fa;
+--transparent-color: rgb(15 116 143 / 70%);
+--section-padding:100px;
+}
+
+/* End Variables  */
+/* start global Rules  */
+* {
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+html {
+scroll-behavior: smooth !important;
+}
+
+body {
+font-family: 'Open Sans', sans-serif;
+}
+
+/* header */
+
+
+/* End Header */
+
+/* Main Section  */
+.result, .quiz-area {
+    display: none;
+}
+
+.row_ans{
+    padding-inline: 10px;
+    margin-bottom: 5px;
+}
+.result-section {
+    display: none;
+}
+
+/* End Main Section */

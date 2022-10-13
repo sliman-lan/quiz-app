@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz-app</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="px-4">
+            <nav class="navbar px-4 navbar-expand-lg bg-light navbar-light">
+                <a class="navbar-brand" href="#">Quiz-App</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Features</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Pricing</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <section class="main px-2 text-capitalize py-5 px-4">
+            <div class="text-center main-content">
+                <h1>welcome to my Quiz App</h1>
+                <p class="lead px-5">
+                    you can test your skills in HTML OR CSS for free 
+                </p>
+                <div class="p-lg-5 d-flex justify-content-center py-5">
+                    <ul class="list-group w-25">
+                        <button id="html-btn" class="list-group-item text-light badge bg-danger mb-3 ">Html</button>
+                        <button id="css-btn" class="list-group-item text-light badge bg-primary">Css</button>
+                    </ul>
+                </div>
+            </div>
+            <div id="quiz-content" class="quiz-area">
+                <h3 class="question bg-light py-3 " id="q"></h3>
+                <div class="options">
+                    <div class="row_ans bg-light">
+                        <input type="radio" name="ans" id="first">
+                        <label for="first"></label>
+                    </div>
+                    <div class="row_ans bg-light">
+                        <input type="radio"  name="ans" id="second">
+                        <label for="second"></label>
+                    </div>
+                    <div class="row_ans bg-light">
+                        <input type="radio" name="ans" id="third">
+                        <label for="third"></label>
+                    </div>
+                    <div class="row_ans bg-light">
+                        <input type="radio"  name="ans" id="fourth">
+                        <label for="fourth"></label>
+                    </div>
+                    <button class="btn btn-primary d-block my-5" id="submit"> submit </button>
+                </div>
+                <div class="bullets">
+                    <span class="active"></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div class="result-section py-4">
+                <button class="btn btn-outline-dark" id="redo"><i class="fa fa-redo"></i>
+                </button>
+                <div class="result mt-5 p-2 rounded-1 alert">result is :  <span id="result">0</span> </div>
+            </div>
+        </section>
+    </div>
+    <!-- script Files -->
+    <script src="js/bootstrap.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
