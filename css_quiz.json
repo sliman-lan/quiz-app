@@ -1,11 +1,11 @@
 [
     {
-        "title" : "to make the text color Red of this element <p> test </p> ",
-        "right_ans":"p { color: red; }",
-        "answer_1":"p{ background:red; }",
-        "answer_2":"p{ text-color:#f00 }",
-        "answer_3":".text { color: red }",
-        "answer_4":"p { color: red; }"
+        "title" : "What does CSS stand for?",
+        "right_ans":"Cascading Style Sheets",
+        "answer_1":"Creative Style Sheets",
+        "answer_2":"Computer Style Sheets",
+        "answer_3":"Cascading Style Sheets",
+        "answer_4":"Colorful Style Sheets"
     },
     {
         "title" : "the correct answer to add a font-family 'open sans' and font-size 90% of body font-size:",
@@ -24,59 +24,59 @@
         "answer_4":".parent{vertical-align:middle;}"
     },
     {
-        "title" : "meta Element  is used for ",
-        "right_ans":"add description, keywords",
-        "answer_1":"description",
-        "answer_2":"nonsense",
-        "answer_3":"make the website responsive",
-        "answer_4":"add description, keywords"
+        "title" : "What is the correct HTML for referring to an external style sheet?",
+        "right_ans":"<link rel="stylesheet" type="text/css" href="mystyle.css">",
+        "answer_1":"<stylesheet>mystyle.css</stylesheet>",
+        "answer_2":"<link rel="stylesheet" type="text/css" href="mystyle.css">",
+        "answer_3":"<style src="mystyle.css">",
+        "answer_4":"<style href="mystyle.css">"
     },
     {
-        "title" : "in HTML you can add SVG directly",
-        "right_ans":"true",
-        "answer_1":"false",
-        "answer_2":"true",
-        "answer_3":"can't add SVG anymore.",
-        "answer_4":"somtimes true"
+        "title" : "Which HTML attribute is used to define inline styles?",
+        "right_ans":"style",
+        "answer_1":"styles",
+        "answer_2":"class",
+        "answer_3":"style",
+        "answer_4":"font"
     },
     {
-        "title" : "what <br> Element  is used for ",
-        "right_ans":"add breakline",
-        "answer_1":"add bold to text",
-        "answer_2":"add space between Elements",
-        "answer_3":"add horizontal line",
-        "answer_4":"add breakline"
+        "title" : "How do you insert a comment in a CSS file?",
+        "right_ans":"/*this is a comment*/",
+        "answer_1":"//this is a comment//",
+        "answer_2":"'this is a comment'",
+        "answer_3":"//this is a comment",
+        "answer_4":"/*this is a comment*/"
     },
     {
-        "title" : "Gow to  ",
-        "right_ans":"add breakline",
-        "answer_1":"add bold to text",
-        "answer_2":"add space between Elements",
-        "answer_3":"add horizontal line",
-        "answer_4":"add breakline"
+        "title" : "Which property is used to change the background color?",
+        "right_ans":"background-color",
+        "answer_1":"background-color",
+        "answer_2":"bgcolor",
+        "answer_3":"color",
+        "answer_4":"forecolor"
     },
     {
-        "title" : "what <br> Element  is used for ",
-        "right_ans":"add breakline",
-        "answer_1":"add bold to text",
-        "answer_2":"add space between Elements",
-        "answer_3":"add horizontal line",
-        "answer_4":"add breakline"
+        "title" : "How do you add a background color for all <h1> elements?",
+        "right_ans":"h1{background-color:#ffffff}",
+        "answer_1":"h1.all{background-color:#ffffff}",
+        "answer_2":"h1{background-color:#ffffff}",
+        "answer_3":"h1#all{background-color:#ffffff}",
+        "answer_4":"h1 > .all{background-color:#ffffff}"
     },
     {
-        "title" : "what <br> Element  is used for ",
-        "right_ans":"add breakline",
-        "answer_1":"add bold to text",
-        "answer_2":"add space between Elements",
-        "answer_3":"add horizontal line",
-        "answer_4":"add breakline"
+        "title" : "Which CSS property is used to change the text color of an element?",
+        "right_ans":"color",
+        "answer_1":"fgcolor",
+        "answer_2":"font-color",
+        "answer_3":"text-color",
+        "answer_4":"color"
     },
     {
-        "title" : "what <br> Element  is used for ",
-        "right_ans":"add breakline",
-        "answer_1":"add bold to text",
-        "answer_2":"add space between Elements",
-        "answer_3":"add horizontal line",
-        "answer_4":"add breakline"
+        "title" : "Which CSS property controls the text size?",
+        "right_ans":"font-size",
+        "answer_1":"text-size",
+        "answer_2":"font-style",
+        "answer_3":"font-size",
+        "answer_4":"text-style"
     }
 ]
