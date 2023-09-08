@@ -25,9 +25,9 @@
     },
     {
         "title" : "What is the correct HTML for referring to an external style sheet?",
-        "right_ans":"<link rel="stylesheet" type="text/css" href="mystyle.css">",
+        "right_ans":"<link rel="stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
         "answer_1":"<stylesheet>mystyle.css</stylesheet>",
-        "answer_2":"<link rel="stylesheet" type="text/css" href="mystyle.css">",
+        "answer_2":"<link rel="stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
         "answer_3":"<style src="mystyle.css">",
         "answer_4":"<style href="mystyle.css">"
     },
